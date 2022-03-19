@@ -1,5 +1,5 @@
 # Grid Testimonials
-##Easy way to use grid to your will
+## Easy way to use grid to your will
 
 `.testimonial-grid {
   display: grid;
