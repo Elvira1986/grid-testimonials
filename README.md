@@ -4,6 +4,6 @@
 `.testimonial-grid {
   display: grid;
   gap: 1.5rem;
-  grid-template-areas: "one" "two" "three" "four" "five";`
+  grid-template-areas: "one" "two" "three" "four" "five";} `
   
   
